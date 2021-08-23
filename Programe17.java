@@ -13,15 +13,15 @@ public class Programe17{
 		if(yr%4 == 0){
 			if(yr%100 == 0){
 				if(yr%400 == 0){
-					System.out.println("ENTERD YEAR IS LEAP YEAR");
+					System.out.println("ENTERED YEAR IS LEAP YEAR");
 				}else{
-					System.out.println("ENTERD YEAR IS NOT A LEAP YEAR");
+					System.out.println("ENTERED YEAR IS NOT A LEAP YEAR");
 				}
 			}else{
-				System.out.println("ENTERD YEAR IS LEAP YEAR");
+				System.out.println("ENTERED YEAR IS LEAP YEAR");
 			}
 		}else{
-			System.out.println("ENTERD YEAR IS NOT A LEAP YEAR");
+			System.out.println("ENTERED YEAR IS NOT A LEAP YEAR");
 		}
 	}
 }
