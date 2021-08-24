@@ -7,7 +7,7 @@ public class Programe18{
 		Scanner scan = new Scanner(System.in);
 
 		// takin user inputs
-		System.out.println("PLEASE ENTER YEAR");
+		System.out.println("PLEASE ENTER YOUR WEBSITE");
 		String web = scan.nextLine();
 
 		if(web.endsWith(".com")){
