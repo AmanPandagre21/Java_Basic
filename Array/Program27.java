@@ -24,7 +24,7 @@ public class Program27{
 			total += marksArry[i];
 		}
 
-		float avg = total/n;
+		float avg = (float)total/n;
 
 		System.out.println("AVERAGE MARKS OF STUDENT ARE:- "+ avg);
 	}
