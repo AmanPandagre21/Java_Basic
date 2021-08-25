@@ -7,7 +7,7 @@ public class Program25{
 		Scanner scan = new Scanner(System.in);
 
 		// takin user inputs
-		System.out.println("ENTER THE NUMBER");
+		System.out.println("ENTER THE INDEX OF ARRAY");
 		int num = scan.nextInt();
 
 		float [] numArry = new float[num];
