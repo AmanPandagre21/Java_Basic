@@ -15,7 +15,7 @@ private int rad =0;
 	}
 
 	public void circumference(){
-		System.out.println("CIRCUMFERENCE OF REACTANGLE IS :- "+ 2*Math.PI*rad);
+		System.out.println("CIRCUMFERENCE OF CIRCLE IS :- "+ 2*Math.PI*rad);
 	}                  
 }
 
